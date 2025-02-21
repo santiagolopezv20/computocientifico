@@ -1,0 +1,2 @@
+# computocientifico
+Repositorio para practicas
